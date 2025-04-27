@@ -37,3 +37,28 @@ CREATE TABLE product_category (
     name VARCHAR(100) NOT NULL,
     description TEXT
 );
+
+
+## Group Members
+
+1. Edwin	Muigai
+
+2. Dennis	Muia
+	
+3. Ivy	Butichi
+
+4. Martin	Lusasi
+	
+5. Patience	Ibitokun
+	
+6. Brian Ngumi	Njenga
+		
+7. Abdullateef	Bashorun
+	
+8. Anthony	Nosiere
+		
+9. Chidiebere	Eme
+
+10. Ju-Nine Ngu	Cho
+
+11. Emmanuel Kimaro
